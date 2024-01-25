@@ -1,0 +1,130 @@
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Login.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Properties.Resources.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Main.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Roles.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftAdd.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftUpdate.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Users.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CopyComplete
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Login.resources
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Main.resources
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Properties.Resources.resources
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Roles.resources
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftAdd.resources
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftUpdate.resources
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Users.resources
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CopyComplete
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\mkaba\Downloads\persva-main1\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.otomasyon.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Login.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Main.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.otomasyon.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Roles.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftAdd.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftUpdate.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Users.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Holidays.resources
+C:\Users\LENOVO\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Leaves.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Leaves.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Login.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Main.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.otomasyon.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftUpdate.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Holidays.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Users.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Properties.Resources.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Roles.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftAdd.resources
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CopyComplete
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Softepen\Desktop\persva-main\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Leaves.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Login.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Main.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.otomasyon.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftUpdate.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Holidays.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Users.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Properties.Resources.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Roles.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftAdd.resources
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Softepen\Desktop\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CopyComplete
+D:\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+D:\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+D:\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+D:\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+D:\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.dll
+D:\muzaffer\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.xml
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.AssemblyReference.cache
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Leaves.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Login.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Main.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.otomasyon.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftUpdate.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Holidays.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Users.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Properties.Resources.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Roles.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftAdd.resources
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.GenerateResource.cache
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CoreCompileInputs.cache
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CopyComplete
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+D:\muzaffer\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
